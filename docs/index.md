@@ -1,1 +1,1 @@
-# Hom page
+# Home page
