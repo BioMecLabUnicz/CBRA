@@ -1,4 +1,4 @@
-# CBRA
+# CBRA 1.0
 Cardiac Biomarkers Release Analyzer software platform for clinical decision support. 
 
 ##
