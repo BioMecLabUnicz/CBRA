@@ -1,8 +1,8 @@
 # Menu
-* [Documentation & Installation Files]
-* [What is CBRA?]
-* [How to use CBRA?]
-* [Contact Us]
+* [Documentation & Installation Files] (https://biomeclabunicz.github.io/CBRA/contactus)
+* [What is CBRA?] (https://biomeclabunicz.github.io/CBRA/cbra)
+* [How to use CBRA?] (https://biomeclabunicz.github.io/CBRA/)
+* [Contact Us] (https://biomeclabunicz.github.io/CBRA/contactus)
 
 ##
 <p align="justify">
