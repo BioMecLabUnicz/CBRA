@@ -1,6 +1,8 @@
-# CBRA home page
-
-
+# Menu
+* [Documentation & Installation Files]
+* [What is CBRA?]
+* [How to use CBRA?]
+* [Contact Us]
 
 ##
 <p align="justify">
