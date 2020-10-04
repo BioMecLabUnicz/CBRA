@@ -1,10 +1,10 @@
-### Menu
+# Menu
 * [Documentation & Installation Files] (https://biomeclabunicz.github.io/CBRA/documentation)
 * [What is CBRA?] (https://biomeclabunicz.github.io/CBRA/cbra)
 * [How to use CBRA?] (https://biomeclabunicz.github.io/CBRA/usecbra)
 * [Contact Us] (https://biomeclabunicz.github.io/CBRA/contactus)
 
-###
+#
 <p align="justify">
 All rights reserved. No part of this service may be reproduced in any way without express written consent of the Magna Graecia University. This information should not be used for the diagnosis or treatment of any health problem or disease. **THIS INFORMATION IS NOT INTENDED TO REPLACE CLINICAL JUDGMENT OR GUIDE INDIVIDUAL PATIENT CARE IN ANY MANNER**</p>
 <details><summary>....</summary>
