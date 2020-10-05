@@ -18,7 +18,7 @@ For a new installation:
 * Double click on the file **MAMP_MAMP_PRO_5.0.pkg**, for macOs, or on **setup_MAMP_MAMP_PRO_4.x.exe**, for Windows, in your Download folder;
 * The System/Windows Installer will guide you through the installation process. 
 
-## Second step - 
+## Second step - upload the database
 After installation, trough the opening window of MAMP, you can activate the servers clicking on **Start Servers**.
 Trough *Open Start Page*, you have the possibility ot access to *phpMyAdmin*, by selecting *phpMyAdmin* from *Tools* on the top of the page. At this point, you can:
 * click on the *Import*;
