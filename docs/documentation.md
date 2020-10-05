@@ -4,9 +4,9 @@ Setting up the environment for CBRA is quick and easy: all you need is a web and
 All the installation files, and the database associated to CBRA are available in [here](https://github.com/BioMecLabUnicz/CBRA/).
 <p>
 ## First step
-<p align="justify">
-First of all, you need to associate the database to CBRA application. To do this, it is necessary to download and install MAMP - a local server environment that can easily work under macOS and Windows. MAMP provides all the tools needed to ensure proper operation of the application, such as: the web server Apache, and the database server MySQL.
-<p>
+  <p align="justify">
+  First of all, you need to associate the database to CBRA application. To do this, it is necessary to download and install MAMP - a local server environment that can easily work under macOS and Windows. MAMP provides all the tools needed to ensure proper operation of the application, such as: the web server Apache, and the database server MySQL.
+  <p>
   
 MAMP requires the following system features:
 
