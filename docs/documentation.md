@@ -17,5 +17,5 @@ For a new installation:
 ## Second step - 
 After installation, trough the opening window of MAMP, you can activate the servers clicking on **Start Servers**.
 <p align="center">
-  <img  src="_images/Import.png" width=300>
+  <img  src="_images/Import.png">
 </p>
