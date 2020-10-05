@@ -25,7 +25,7 @@ Trough *Open Start Page*, you have the possibility ot access to *phpMyAdmin*, by
 * upload the .sql file, selecting the file from the browser;
 
 <p align="left">
-  <img  src="/_images/Import.png" width = 300>
+  ![](/_images/Import.png)
 </p>
 
 ## Third step - download & use CBRA 
