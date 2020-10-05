@@ -1,4 +1,4 @@
-# Installation Files & Documentation
+# Installation & Documentation
 Setting up the environment for CBRA is quick and easy: all you need is a web and a database server, and the version of CBRA for your operating system.
 All the installation files, and the database associated to CBRA are available in [here](https://github.com/BioMecLabUnicz/CBRA/).
 
