@@ -27,3 +27,7 @@ Trough *Open Start Page*, you have the possibility ot access to *phpMyAdmin*, by
 <p align="left">
   <img  src="/_images/Import.png" width = 300>
 </p>
+
+## Third step - download & use CBRA 
+You can download the CBRA version suitable for your operating system from [here](https://github.com/BioMecLabUnicz/CBRA/). Running  the  CBRA  application  is  really  easy:  just  activate  the  servers  from Mamp, and, then, click on CBRA. 
+Let's start to use CBRA!
