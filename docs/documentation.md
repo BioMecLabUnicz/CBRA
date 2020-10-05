@@ -20,9 +20,6 @@ For a new installation:
 
 ## Second step - 
 After installation, trough the opening window of MAMP, you can activate the servers clicking on **Start Servers**.
-![Import]("/_images/Import.png" )
-*imandadg*
-
 
 <p align="left">
   <img  src="/_images/Import.png" width = 300>
