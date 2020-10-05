@@ -3,11 +3,11 @@ Cardiac Biomarkers Release Analyzer software platform for clinical decision supp
 
 ##
 <p align="justify">
-All rights reserved. No part of this service may be reproduced in any way without express written consent of the Magna Graecia University. This information should not be used for the diagnosis or treatment of any health problem or disease. **THIS INFORMATION IS NOT INTENDED TO REPLACE CLINICAL JUDGMENT OR GUIDE INDIVIDUAL PATIENT CARE IN ANY MANNER**</p>
+All rights reserved. No part of this service may be reproduced in any way without express written consent of the Magna Graecia University. This information should not be used for the diagnosis or treatment of any health problem or disease. THIS INFORMATION IS NOT INTENDED TO REPLACE CLINICAL JUDGMENT OR GUIDE INDIVIDUAL PATIENT CARE IN ANY MANNER</p>
 <details><summary>....</summary>
 <p>
   <p align="justify">
-  All information contained in this software and produced by the Bioengineering Division of the Magna Graecia University (“CBRA”) is provided for educational purposes only. This information should not be used for the diagnosis or treatment of any health problem or disease. **THIS INFORMATION IS NOT INTENDED TO REPLACE CLINICAL JUDGMENT OR GUIDE INDIVIDUAL PATIENT CARE IN ANY MANNER.**
+  All information contained in this software and produced by the Bioengineering Division of the Magna Graecia University (“CBRA”) is provided for educational purposes only. This information should not be used for the diagnosis or treatment of any health problem or disease. THIS INFORMATION IS NOT INTENDED TO REPLACE CLINICAL JUDGMENT OR GUIDE INDIVIDUAL PATIENT CARE IN ANY MANNER.
   </p>
   <p align="justify">
   The User is hereby notified that the information contained herein may not meet the user's needs. The User is advised that, although the information is derived from medical research and literature we cannot guarantee either its correctness, comprehensiveness or currency. The User of this software assumes sole responsibility for any decisions made or actions taken based on the information contained in CBRA.
