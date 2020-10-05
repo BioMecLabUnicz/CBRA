@@ -21,8 +21,9 @@ For a new installation:
 ## Second step - 
 <p align="justify">
 After installation, trough the opening window of MAMP, you can activate the servers clicking on **Start Servers**.
-Trough *Opern Start Page*, you have the possibility ot access to *phpMyAdmin*, by selecting *phpMyAdmin* from *Tools* on the top of the page. At this point, you can:
+Trough *Open Start Page*, you have the possibility ot access to *phpMyAdmin*, by selecting *phpMyAdmin* from *Tools* on the top of the page. At this point, you can:
 </p>
+
 * click on the *Import*;
 * upload the .sql file, selecting the file from the browser;
 <p align="left">
