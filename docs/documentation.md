@@ -6,7 +6,7 @@ All the installation files are available [here](https://github.com/BioMecLabUnic
 
 ## First step - download and install MAMP
 <p align="justify">
-First of all, you need to associate the database to CBRA application. To do this, it is necessary to download and install MAMP - a local server environment that can easily work under macOS and Windows. MAMP provides all the tools needed to ensure proper operation of the application, such as: the web server Apache, and the database server MySQL. 
+First of all, you need to associate the database to CBRA __application__. To do this, it is necessary to download and install MAMP - a local server environment that can easily work under macOS and Windows. MAMP provides all the tools needed to ensure proper operation of the application, such as: the web server Apache, and the database server MySQL. 
 </p>
 
 MAMP requires the following system features:
