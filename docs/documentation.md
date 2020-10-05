@@ -11,7 +11,7 @@ First of all, you need to associate the database to CBRA application. To do this
 
 MAMP requires the following system features:
 * Operating system: Apple OS X 10.10.5 or later, or Windows 10.0 or later;
-* Mac/PC with 64-Bit CPU from Intel (x64).
+* Mac/PC with 64-Bit CPU from Intel (x84).
 
 For a new installation:
 * Download MAMP Pro from MAMP web site.
@@ -24,9 +24,7 @@ Trough *Open Start Page*, you have the possibility ot access to *phpMyAdmin*, by
 * click on the *Import*;
 * upload the .sql file, selecting the file from the browser;
 
-<p align="left">
-  ![](/_images/Import.png)
-</p>
+![](/_images/Import.png)
 
 ## Third step - download & use CBRA 
 You can download the CBRA version suitable for your operating system from [here](https://github.com/BioMecLabUnicz/CBRA/). Running  the  CBRA  application  is  really  easy:  just  activate  the  servers  from Mamp, and, then, click on CBRA. 
