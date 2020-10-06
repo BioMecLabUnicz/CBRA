@@ -24,10 +24,7 @@ Trough *Open Start Page*, you have the possibility ot access to *phpMyAdmin*, by
 * click on the *Import*;
 * upload the .sql file, selecting the file from the browser;
 
-<figure>
-  <img src="/Import1.jpg" alt="this is a placeholder image">
-  <figcaption>phpMyAdmin page, to import database.</figcaption>
-</figure>
+![Immagine](/Import1.jpg)
 
 ## Third step - download & use CBRA 
 You can download the CBRA version suitable for your operating system from [here](https://github.com/BioMecLabUnicz/CBRA/). Running  the  CBRA  application  is  really  easy:  just  activate  the  servers  from Mamp, and, then, click on CBRA. 
