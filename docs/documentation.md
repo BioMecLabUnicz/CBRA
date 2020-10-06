@@ -24,7 +24,7 @@ Trough *Open Start Page*, you have the possibility ot access to *phpMyAdmin*, by
 * click on the *Import*;
 * upload the .sql file, selecting the file from the browser;
 
-![Import](/_images/Import.png)
+![phpMyAdmin import database](/_images/Import.png)
 
 
 ## Third step - download & use CBRA 
