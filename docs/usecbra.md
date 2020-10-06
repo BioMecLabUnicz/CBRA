@@ -40,7 +40,7 @@ Using CBRA, you can also carry out a preprocessing of clinical data, selecting t
 and, finally, you can compute the TIMI risk score
 
 
-![CBRA:Timi](https://github.com/BioMecLabUnicz/CBRA/blob/main/_images/TIMI.png?raw=true)
+![CBRA:Timi](https://github.com/BioMecLabUnicz/CBRA/blob/main/_images/Timi.png?raw=true)
 
 
 
