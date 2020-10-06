@@ -1,4 +1,4 @@
-<a href="https://biomeclabunicz.github.io/CBRA" style="float: right;"> :house: </a>
+<a href="https://biomeclabunicz.github.io/CBRA" style="float: right;">Home</a>
 
 # Contact us
 
