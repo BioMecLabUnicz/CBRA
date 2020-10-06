@@ -9,5 +9,5 @@ If you have any questions or concerns, please do not hesitate to contact us by u
 *
 *
 
-## Where you can find us?
+We are always seeking to improve our controls and welcome suggestions from all quarters at any time. 
 
