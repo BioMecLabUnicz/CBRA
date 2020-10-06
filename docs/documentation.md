@@ -25,7 +25,7 @@ Trough *Open Start Page*, you have the possibility ot access to *phpMyAdmin*, by
 * upload the .sql file, selecting the file from the browser;
 
 <figure>
-  <img src="/_images/Import.png" alt="this is a placeholder image">
+  <img src="/Import1.jpg" alt="this is a placeholder image">
   <figcaption>phpMyAdmin page, to import database.</figcaption>
 </figure>
 
