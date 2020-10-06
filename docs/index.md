@@ -1,4 +1,3 @@
-# Menu
 * [What is CBRA?](https://biomeclabunicz.github.io/CBRA/cbra)
 * [How to use CBRA?](https://biomeclabunicz.github.io/CBRA/usecbra)
 * [Installation & Documentation](https://biomeclabunicz.github.io/CBRA/documentation)
