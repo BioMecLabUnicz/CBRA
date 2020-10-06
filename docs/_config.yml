@@ -9,7 +9,7 @@ show_downloads: true
     type: frontmatter
     items:
     - title:
-      url: /titlepage.html
+      url: /index.html
       audience: writers, designers
       platform: all
       product: all
@@ -17,7 +17,7 @@ show_downloads: true
       output: pdf
       type: frontmatter
     - title:
-      url: /tocpage.html
+      url: /cbra.html
       audience: writers, designers
       platform: all
       product: all
