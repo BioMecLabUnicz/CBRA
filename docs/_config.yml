@@ -1,10 +1,2 @@
 theme: jekyll-theme-architect
 show_downloads: true
-defaults:
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      sidebar:
-        nav: "docs"
