@@ -1,3 +1,6 @@
+sidebar:
+  nav: "docs"
+  
 # Installation & Documentation                                   [Home](https://biomeclabunicz.github.io/CBRA/)
 <p align="justify">
 Setting up the environment for CBRA is quick and easy: all you need is a web and a database server, and the version of CBRA for your operating system.
