@@ -1,5 +1,3 @@
 theme: jekyll-theme-architect
 show_downloads: true
-pages:
-- Home: index.md
-- Documentation: http://website.com/doc/index.html
+
