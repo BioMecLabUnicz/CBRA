@@ -1,27 +1,3 @@
 theme: jekyll-theme-architect
 show_downloads: true
-- title:
-    audience: writers, designers
-    platform: all
-    product: all
-    version: all
-    output: pdf
-    type: frontmatter
-    items:
-    - title:
-      url: /index.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /cbra.html
-      audience: writers, designers
-      platform: all
-      product: all
-      version: all
-      output: pdf
-      type: frontmatter
 
