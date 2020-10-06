@@ -1,2 +1,4 @@
 theme: jekyll-theme-architect
 show_downloads: true
+sidebar:
+  nav: "docs"
