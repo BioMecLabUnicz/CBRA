@@ -1,3 +1,5 @@
+CBRA, Cardiac Biomarkers Release Analyzer, is the innovative software platform for personalized medicine, produced by the Bioengineering Division of the Magna Graecia University in collaboration with the Interventional Cardiology Unit of the Magna Graecia University. 
+
 * [What is CBRA?](https://biomeclabunicz.github.io/CBRA/cbra)
 * [How to use CBRA?](https://biomeclabunicz.github.io/CBRA/usecbra)
 * [Installation & Documentation](https://biomeclabunicz.github.io/CBRA/documentation)
