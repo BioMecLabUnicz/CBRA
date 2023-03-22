@@ -1,0 +1,119 @@
+<deployment-project plugin="plugin.webdeploy" plugin-version="1.0">
+  <configuration file="C:\Users\nicol\CBRA\project_CBRA\CBRA\ProjectCBRA.prj" location="C:\Users\nicol\CBRA\project_CBRA\CBRA" name="ProjectCBRA" target="target.webdeploy" target-name="Web App Compiler">
+    <param.appname>ProjectCBRA</param.appname>
+    <param.intermediate>${PROJECT_ROOT}\ProjectCBRA</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\ProjectCBRA</param.files.only>
+    <param.output>C:\ProgramData\MathWorks\webapps\R2022a\apps\ProjectCBRA</param.output>
+    <param.checkbox>true</param.checkbox>
+    <param.logdir>${PROJECT_ROOT}\ProjectCBRA</param.logdir>
+    <param.target.type>subtarget.web.app</param.target.type>
+    <param.user.defined.mcr.options />
+    <param.support.packages />
+    <unset>
+      <param.intermediate />
+      <param.files.only />
+      <param.logdir />
+      <param.target.type />
+      <param.user.defined.mcr.options />
+      <param.support.packages />
+    </unset>
+    <fileset.web.main>
+      <file>${PROJECT_ROOT}\cbraAPP.mlapp</file>
+    </fileset.web.main>
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\CalculeCode.m</file>
+      <file>${PROJECT_ROOT}\cbraAPP.mlapp</file>
+      <file>${PROJECT_ROOT}\ComputeData.m</file>
+      <file>${PROJECT_ROOT}\ComputeOre.m</file>
+      <file>${PROJECT_ROOT}\ComputeSSN.m</file>
+      <file>${PROJECT_ROOT}\Comuni.mat</file>
+      <file>${PROJECT_ROOT}\dbConnection.m</file>
+      <file>${PROJECT_ROOT}\export_icon.png</file>
+      <file>${PROJECT_ROOT}\FindV.m</file>
+      <file>${PROJECT_ROOT}\homeIco.png</file>
+      <file>${PROJECT_ROOT}\hospIco.png</file>
+      <file>${PROJECT_ROOT}\import_download.png</file>
+      <file>${PROJECT_ROOT}\initializationVector.m</file>
+      <file>${PROJECT_ROOT}\Logo_UMG_biomechatronics.jpg</file>
+      <file>${PROJECT_ROOT}\measIco.png</file>
+      <file>${PROJECT_ROOT}\min_max.m</file>
+      <file>${PROJECT_ROOT}\mysql-connector-java-5.0.8-bin.jar</file>
+      <file>${PROJECT_ROOT}\nomecomuni.mat</file>
+      <file>${PROJECT_ROOT}\Obj.m</file>
+      <file>${PROJECT_ROOT}\odefun.m</file>
+      <file>${PROJECT_ROOT}\pari_dispari.mat</file>
+      <file>${PROJECT_ROOT}\passEncrypt.m</file>
+      <file>${PROJECT_ROOT}\passwordEdit.html</file>
+      <file>${PROJECT_ROOT}\refresh.png</file>
+      <file>${PROJECT_ROOT}\sqlprotection.m</file>
+      <file>${PROJECT_ROOT}\tempi.m</file>
+      <file>${PROJECT_ROOT}\trendIco.png</file>
+      <file>${PROJECT_ROOT}\troponin_model.m</file>
+      <file>${PROJECT_ROOT}\UMG.jpg</file>
+      <file>${PROJECT_ROOT}\unique_table.m</file>
+      <file>${PROJECT_ROOT}\x0_found.m</file>
+    </fileset.resources>
+    <fileset.depfun />
+    <fileset.package />
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\ProjectCBRA" name="ProjectCBRA.ctf" optional="false">C:\Users\nicol\CBRA\project_CBRA\CBRA\ProjectCBRA\ProjectCBRA.ctf</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2022a</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="gpucoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <gpucoder>
+          <enabled>true</enabled>
+        </gpucoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>

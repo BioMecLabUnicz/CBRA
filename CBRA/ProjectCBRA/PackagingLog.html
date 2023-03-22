@@ -1,0 +1,62 @@
+<html>  
+<head>
+    <style>     
+        html{     
+        background-color: white;     
+        padding: 5px;     
+        width: 95%;     
+        }     
+        pre {     
+        overflow-x: auto;     
+        white-space: pre-wrap;     
+        white-space: -moz-pre-wrap;     
+        white-space: -pre-wrap;     
+        white-space: -o-pre-wrap;     
+        word-wrap: break-word;     
+        }     
+    </style>     
+    
+    <script type="text/javascript">     
+            
+            function setup(htmlComponent) {     
+            
+				htmlComponent.addEventListener("DataChanged", function(event) {     
+				scrollID =  htmlComponent.Data;     
+					if (scrollID != ''){
+						if(scrollID==="bottom"){         
+							scrollToBottom();     
+						} else if(scrollID==="DOWNLOAD_MCRINSTALLER" || scrollID==="BUILD_MISSING" || scrollID==="SAMPLE_GEN" || scrollID==="USER_REQUESTED_PACKAGE"){     
+							document.getElementById(scrollID).scrollIntoView(true);     
+						} else {     
+							//document.body.innerHTML = document.body.innerHTML + scrollID;     
+							document.body.appendChild(scrollID);                 
+							scrollToBottom();     
+						}    
+						htmlComponent.Data = '';
+					}		
+				});          
+            }     
+            function scrollToBottom(){     
+            var scrollingElement = (document.scrollingElement || document.body);     
+            scrollingElement.scrollTop = scrollingElement.scrollHeight;     
+            }     
+            
+    </script> 
+</head>
+ <body><meta charset="UTF-8">        
+ <pre><font color=blue>mcc -W 'webapp:ProjectCBRA,CONFIG:C:\Users\nicol\AppData\Local\Temp\tp49d723ab_1076_44b4_a507_3e7ee23c884a.xml' -d C:\Users\nicol\CBRA\project_CBRA\CBRA\ProjectCBRA -v -a C:\Users\nicol\CBRA\project_CBRA\CBRA\CalculeCode.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\cbraAPP.mlapp -a C:\Users\nicol\CBRA\project_CBRA\CBRA\ComputeData.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\ComputeOre.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\ComputeSSN.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\Comuni.mat -a C:\Users\nicol\CBRA\project_CBRA\CBRA\dbConnection.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\export_icon.png -a C:\Users\nicol\CBRA\project_CBRA\CBRA\FindV.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\homeIco.png -a C:\Users\nicol\CBRA\project_CBRA\CBRA\hospIco.png -a C:\Users\nicol\CBRA\project_CBRA\CBRA\import_download.png -a C:\Users\nicol\CBRA\project_CBRA\CBRA\initializationVector.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\Logo_UMG_biomechatronics.jpg -a C:\Users\nicol\CBRA\project_CBRA\CBRA\measIco.png -a C:\Users\nicol\CBRA\project_CBRA\CBRA\min_max.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\mysql-connector-java-5.0.8-bin.jar -a C:\Users\nicol\CBRA\project_CBRA\CBRA\nomecomuni.mat -a C:\Users\nicol\CBRA\project_CBRA\CBRA\Obj.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\odefun.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\pari_dispari.mat -a C:\Users\nicol\CBRA\project_CBRA\CBRA\passEncrypt.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\passwordEdit.html -a C:\Users\nicol\CBRA\project_CBRA\CBRA\refresh.png -a C:\Users\nicol\CBRA\project_CBRA\CBRA\sqlprotection.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\tempi.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\trendIco.png -a C:\Users\nicol\CBRA\project_CBRA\CBRA\troponin_model.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\UMG.jpg -a C:\Users\nicol\CBRA\project_CBRA\CBRA\unique_table.m -a C:\Users\nicol\CBRA\project_CBRA\CBRA\x0_found.m -Z autodetect -C C:\Users\nicol\CBRA\project_CBRA\CBRA\cbraAPP.mlapp</font>
+Compiler version: 8.4 (R2022a)
+Analyzing file dependencies. 
+<font color='orange'>Warning: Your deployed application may fail because file or folder paths
+not present in the deployed environment may be included in your MATLAB startup
+file. Use the MATLAB function "isdeployed" in your MATLAB startup file to
+determine the appropriate execution environment when including file and folder
+paths, and recompile your application.
+</font> 
+<font color='orange'>> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('compiler.internal.build.builder/Generic/build', 'C:\Program Files\MATLAB\R2022a\toolbox\compiler\cli\build\+compiler\+internal\+build\+builder\Generic.m', 81)" style="font-weight:bold">compiler.internal.build.builder/Generic/build</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022a\toolbox\compiler\cli\build\+compiler\+internal\+build\+builder\Generic.m',81,0)">line 81</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('compiler.build.webAppArchive', 'C:\Program Files\MATLAB\R2022a\toolbox\compiler\cli\build\+compiler\+build\webAppArchive.m', 87)" style="font-weight:bold">compiler.build.webAppArchive</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022a\toolbox\compiler\cli\build\+compiler\+build\webAppArchive.m',87,0)">line 87</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('matlab.internal.compiler.ui.deployProject', 'C:\Program Files\MATLAB\R2022a\toolbox\compiler\ui\package_dialog\+matlab\+internal\+compiler\+ui\deployProject.m', 111)" style="font-weight:bold">matlab.internal.compiler.ui.deployProject</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022a\toolbox\compiler\ui\package_dialog\+matlab\+internal\+compiler\+ui\deployProject.m',111,0)">line 111</a>)</font> 
+Parsing file "C:\Users\nicol\CBRA\project_CBRA\CBRA\cbraAPP.mlapp" 
+	(referenced from command line). 
+
+</pre></body></html>

@@ -1,0 +1,20 @@
+1. Check server is started:
+--- Go to C:\Program Files\MATLAB\MATLAB Web App Server\R2022a\script using this command by cmd.exe as administrator:
+	"C:\Program Files\MATLAB\MATLAB Web App Server\R2022a\script";
+--- Run webapps-status.exe;
+--- Aspected output:
+
+		"Server Status: Running
+		URL: http://PC-EMOD-ST15:9988/webapps/home/
+		Apps Folder: C:\ProgramData\MathWorks\webapps\R2022a\apps
+		Logs Folder: C:\ProgramData\MathWorks\webapps\R2022a\logs";
+
+--- Run webapps-start.exe if Server Status is on "Stopped";
+--- If server cant't start contact admin;
+
+2a. Use following link to connect on server via browser in localhost: "http://PC-EMOD-ST15:9988/webapps/home/";
+
+2b. To connect via Wi-Fi, disconnect this pc from LAN and connect to Wi-Fi
+--- Check ip by using "ipconfig" command by cmd.exe as administrator;
+--- test wifi address:
+		"http://10.130.38.15:9988/webapps/home/";
